@@ -7,8 +7,13 @@ Ce projet utilise YOLOv3 pour détecter des objets spécifiques dans des images 
 ## Prérequis
 
 - Python 3.x
-- instakller les bibliothèques Python neccessaires avec la ligne de commande suivante:
+- installer les bibliothèques Python neccessaires avec la ligne de commande suivante:
+
  pip install -r requirements.txt
+
+ - Télécharger yolo.weights avec lien suivante, et collé le dans le repertoire du projet.
+
+ https://sourceforge.net/projects/yolov3.mirror/files/v8/yolov3.weights/download
 
 
 ## Installation
